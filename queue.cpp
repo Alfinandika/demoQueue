@@ -114,7 +114,17 @@ void maxMin(){
 	}
 
 	cout<<"Data terbesar : "<<terbesar<<endl;
-	cout<<"Data terkecil : "<<terkecil<<endl;	
+	cout<<"Data terkecil : "<<terkecil<<endl;
+	cout<<"Data terkecil : "<<terkecil<<endl;
+	cout<<"Data terkecil : "<<terkecil<<endl;
+	cout<<"Data terkecil : "<<terkecil<<endl;
+	cout<<"Data terkecil : "<<terkecil<<endl;
+	cout<<"Data terkecil : "<<terkecil<<endl;
+	cout<<"Data terkecil : "<<terkecil<<endl;
+	cout<<"Data terkecil : "<<terkecil<<endl;
+	cout<<"Data terkecil : "<<terkecil<<endl;
+	cout<<"Data terkecil : "<<terkecil<<endl;
+	cout<<"Data terkecil : "<<terkecil<<endl;
 }
 
 void information(){
